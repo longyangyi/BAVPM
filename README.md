@@ -6,6 +6,7 @@ You need to download and install:
 - **Qt framework:** https://www.qt.io/download;
 - **qjsonrpc:** https://bitbucket.org/devonit/qjsonrpc;
 - **ganache-cli:** (https://github.com/trufflesuite/ganache-cli);
+- **truffle:** (https://github.com/trufflesuite/truffle);
 - and the files of this project.
 
 ## Supported OS  
