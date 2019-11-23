@@ -28,6 +28,8 @@ chmod +x ./ticketGenerator
 ./ticketGenerator
 ```
 
+### Main Screenshot in folder /MainScreen
+
 ## Supported OS  
 BAVPM is tested only on Linux-based :penguin: operating systems (https://www.linux.org/pages/download/). 
 
