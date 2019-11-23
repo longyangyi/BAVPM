@@ -15,7 +15,7 @@ BAVPM is tested only on Linux-based :penguin: operating systems (https://www.lin
 ## How to execute BAVPM ? 
 - read our journal: BAVPM: Practical Autonomous Vehicle Platoon Management Supported by Blockchain Technique.
 
-#### Command Line
+### Command Line
 
 ```Bash
 ganache-cli
