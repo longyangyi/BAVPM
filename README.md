@@ -17,15 +17,21 @@ BAVPM is tested only on Linux-based :penguin: operating systems (https://www.lin
 
 ganache-cli
 
-cd ./BAVPM/ContractTruffle/
+cd /home/louis/BAVPM/ContractTruffle/
 
 truffle migrate
 
-cd ../BAVPMclient/node/build-node-Desktop_Qt_5_13_1_GCC_64bit-Debug/
+cd /home/louis/BAVPM/BAVPMclient/node/build-node-Desktop_Qt_5_13_1_GCC_64bit-Debug/
 
 chmod +x ./Diaries
 
 ./Diaries
+
+cd /home/louis/BAVPM/BAVPMclient/ticketGenerator/build-ticketGenerator-Desktop_Qt_5_13_1_GCC_64bit-Debug/
+
+chmod +x ./ticketGenerator
+
+./ticketGenerator
 
 
 ## Contact
