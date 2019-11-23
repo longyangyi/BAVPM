@@ -15,9 +15,11 @@ BAVPM is tested only on Linux-based :penguin: operating systems (https://www.lin
 ## How to execute BAVPM ? 
 - read our journal: BAVPM: Practical Autonomous Vehicle Platoon Management Supported by Blockchain Technique.
 
-- ganache-cli
-- cd ./BAVPM/ContractTruffle
-- truffle migrate
+ganache-cli
+
+cd ./BAVPM/ContractTruffle
+
+truffle migrate
 
 ## Contact
 For any question please contact : james.ying@ntu.edu.sg
