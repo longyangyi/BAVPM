@@ -13,7 +13,6 @@ You need to download and install:
 BAVPM is tested only on Linux-based :penguin: operating systems (https://www.linux.org/pages/download/). 
 
 ## How to execute BAVPM ? 
-- see :movie_camera: in: https://www.youtube.com/watch?v=XE13QGR1czE&feature=youtu.be;
 - read our journal: BAVPM: Practical Autonomous Vehicle Platoon Management Supported by Blockchain Technique.
 
 ## Contact
