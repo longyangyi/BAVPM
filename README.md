@@ -6,7 +6,7 @@ You need to download and install:
 - **Qt framework:** https://www.qt.io/download;
 - **qjsonrpc:** https://bitbucket.org/devonit/qjsonrpc;
 - **ganache-cli:** (https://github.com/trufflesuite/ganache-cli);
-- and ofcourse, the files of this project.
+- and the files of this project.
 
 ## Supported OS  
 BAVPM is tested only on Linux-based :penguin: operating systems (https://www.linux.org/pages/download/). 
