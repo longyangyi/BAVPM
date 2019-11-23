@@ -15,6 +15,7 @@ BAVPM is tested only on Linux-based :penguin: operating systems (https://www.lin
 ## How to execute BAVPM ? 
 - read our journal: BAVPM: Practical Autonomous Vehicle Platoon Management Supported by Blockchain Technique.
 
+```Bash
 ganache-cli
 
 cd /home/louis/BAVPM/ContractTruffle/
@@ -33,6 +34,7 @@ chmod +x ./ticketGenerator
 
 ./ticketGenerator
 
+```
 
 ## Contact
 For any question please contact : james.ying@ntu.edu.sg
