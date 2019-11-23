@@ -11,9 +11,9 @@ You need to download and install:
 ## Supported OS  
 BAVPM is tested only on Linux-based :penguin: operating systems (https://www.linux.org/pages/download/). 
 
-## How to execute & understand the principale of BBTrust ? 
+## How to execute BAVPM ? 
 - see :movie_camera: in: https://www.youtube.com/watch?v=XE13QGR1czE&feature=youtu.be;
-- read our journal :scroll: untitled: Bubbles of Trust: a decentralized Blockchain-based authentication system for IoT.
+- read our journal :scroll: untitled: BAVPM: Practical Autonomous Vehicle Platoon Management Supported by Blockchain Technique.
 
 ## Contact
 For any question please contact : james.ying@ntu.edu.sg
