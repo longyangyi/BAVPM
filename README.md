@@ -9,9 +9,6 @@ Download and install:
 - **truffle:** https://github.com/trufflesuite/truffle;
 - and the files of this project.
 
-## Supported OS  
-BAVPM is tested only on Linux-based :penguin: operating systems (https://www.linux.org/pages/download/). 
-
 ## How to execute BAVPM ? 
 - read our journal: BAVPM: Practical Autonomous Vehicle Platoon Management Supported by Blockchain Technique.
 
@@ -30,6 +27,9 @@ cd /home/louis/BAVPM/BAVPMclient/ticketGenerator/build-ticketGenerator-Desktop_Q
 chmod +x ./ticketGenerator
 ./ticketGenerator
 ```
+
+## Supported OS  
+BAVPM is tested only on Linux-based :penguin: operating systems (https://www.linux.org/pages/download/). 
 
 ## Contact
 For any question please contact : james.ying@ntu.edu.sg
