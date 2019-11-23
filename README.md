@@ -27,7 +27,7 @@ cd /home/louis/BAVPM/BAVPMclient/ticketGenerator/build-ticketGenerator-Desktop_Q
 chmod +x ./ticketGenerator
 ./ticketGenerator
 ```
-- Main Screenshot in folder /MainScreen
+- Main Screenshots in folder /MainScreen
 
 ## Supported OS  
 BAVPM is tested only on Linux-based :penguin: operating systems (https://www.linux.org/pages/download/). 
