@@ -13,7 +13,7 @@ BAVPM is tested only on Linux-based :penguin: operating systems (https://www.lin
 
 ## How to execute BAVPM ? 
 - see :movie_camera: in: https://www.youtube.com/watch?v=XE13QGR1czE&feature=youtu.be;
-- read our journal :scroll: untitled: BAVPM: Practical Autonomous Vehicle Platoon Management Supported by Blockchain Technique.
+- read our journal: BAVPM: Practical Autonomous Vehicle Platoon Management Supported by Blockchain Technique.
 
 ## Contact
 For any question please contact : james.ying@ntu.edu.sg
