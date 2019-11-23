@@ -1,10 +1,10 @@
 # BAVPM: Practical Autonomous Vehicle Platoon Management Supported by Blockchain Technique
 
-## How to install BAVPM ?
+## Installation
 
-You need to download and install: 
-- **Qt framework:** https://www.qt.io/download;
-- **qjsonrpc:** https://bitbucket.org/devonit/qjsonrpc;
+Download and install: 
+- **Qt framework:** (https://www.qt.io/download);
+- **qjsonrpc:** (https://bitbucket.org/devonit/qjsonrpc);
 - **ganache-cli:** (https://github.com/trufflesuite/ganache-cli);
 - **truffle:** (https://github.com/trufflesuite/truffle);
 - and the files of this project.
@@ -14,6 +14,8 @@ BAVPM is tested only on Linux-based :penguin: operating systems (https://www.lin
 
 ## How to execute BAVPM ? 
 - read our journal: BAVPM: Practical Autonomous Vehicle Platoon Management Supported by Blockchain Technique.
+
+#### Command Line
 
 ```Bash
 ganache-cli
